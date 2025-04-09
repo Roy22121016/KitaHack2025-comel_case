@@ -72,10 +72,9 @@ The NutriTrackAI is an nutrition tracker application to utilize AI to analyze yo
       | Image 1 | Image 2 | Image 3 |
       |---------|---------|---------|
       | ![1ded2811-IMG_20250405_122826](https://github.com/user-attachments/assets/62303016-ab20-40bd-96b8-989c73d2c09a) | ![73b1a744-IMG_20250405_122643](https://github.com/user-attachments/assets/40d3be94-d413-455e-a6f0-a6a6caadf860) | ![1ded2811-IMG_20250405_122826](https://github.com/user-attachments/assets/e8a331ee-9d4f-4b69-bec5-d2d331b3dfa9) |
-     
-## Screenshots
-  - https://youtu.be/UN2ilJdZfL0?si=wJjjEhePJTvq7gx-
 
+## Demo video
+  - https://youtu.be/UN2ilJdZfL0?si=wJjjEhePJTvq7gx-
 
 ## Collaborators 
 - Roy22121016
