@@ -32,6 +32,7 @@ The NutriTrackAI is an nutrition tracker application to utilize AI to analyze yo
     - Train the model for culturally diverse foods
 
 ## Set up instructions
+  - FitBot (AI ChatBot using Gemini API) project in Android Studio
   - Model set up instructions in food_detection_AI file
     1. Clone the repository
        ```
