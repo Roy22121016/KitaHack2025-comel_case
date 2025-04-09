@@ -32,7 +32,7 @@ The NutriTrackAI is an nutrition tracker application to utilize AI to analyze yo
     - Train the model for culturally diverse foods
 
 ## Set up instructions
-  
+  - Model set up instructions in food_detection_AI file
 
 ## Screenshots
 
