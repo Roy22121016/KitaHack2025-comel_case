@@ -16,9 +16,23 @@ The NutriTrackAI is an nutrition tracker application to utilize AI to analyze yo
 
   - SDG 3: Good Health & Well-Being
     - Preventing diet-related diseases (obesity, diabetes).
+      
+- Core Libraries/Frameworks
+  - TensorFlow / TensorFlow Lite (Machine Learning and Optimisation)
+  - Google Gemini Api (AI chatbot for meal counselling)
+  - Flutter (Mobile Applications Development)
+ 
+- Potential Improvements
+  - Voice Recognition
+    - App log a food by recognising the food name said from the user 
+  - Gamification
+    - Set up a reward system when hitting the nutritional goal
+    - Alert user to maintain daily goal streak with friends
+  - Multi-culture food recognition
+    - Train the model for culturally diverse foods
 
 ## Set up instructions
-
+  
 
 ## Screenshots
 
