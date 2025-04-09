@@ -35,6 +35,7 @@ The NutriTrackAI is an nutrition tracker application to utilize AI to analyze yo
   - Model set up instructions in food_detection_AI file
 
 ## Screenshots
+  - https://youtu.be/UN2ilJdZfL0?si=wJjjEhePJTvq7gx-
 
 
 ## Collaborators 
