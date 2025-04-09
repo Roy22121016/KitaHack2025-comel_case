@@ -27,7 +27,7 @@ The NutriTrackAI is an nutrition tracker application to utilize AI to analyze yo
 - Roy22121016
 - GrindingHZ
 - jia-enn
-- 
+- Faun14
 
 
 
